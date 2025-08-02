@@ -1137,6 +1137,11 @@ a {
 }
 .cid-uSGPIvfCSp {
   display: flex;
+  background-image: url("../../../assets/images/pexels-minan1398-977342-2000x1379.jpg");
+}
+.cid-uSGPIvfCSp .mbr-overlay {
+  background-color: #232323;
+  opacity: 0.7;
 }
 @media (min-width: 768px) {
   .cid-uSGPIvfCSp {
@@ -1178,7 +1183,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-uSGPIvfCSp .mbr-section-title,
 .cid-uSGPIvfCSp .mbr-section-subtitle {
